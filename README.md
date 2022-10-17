@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&height=100&lines=Hi+there+%F0%9F%91%8B+%F0%9F%98%83+;I'm+Full-Stack+Web+Developer+%F0%9F%96%A5%EF%B8%8F;10%2B+Years+of+Experience;I+%E2%9D%A4%EF%B8%8F+FLOSS+;Find+my+repositories+in+Gitlab;Visit+my+blog+MonsterPenguin+%F0%9F%90%A7)](https://gitlab.com/Energy1011)
+[![Welcome](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&duration=1000&pause=1500&color=8A2BE2&height=35&lines=Hi+there+%F0%9F%91%8B+%F0%9F%98%83+;I'm+Full-Stack+Web+Developer+%F0%9F%96%A5%EF%B8%8F;10%2B+Years+of+Experience;I+%E2%9D%A4%EF%B8%8F+FLOSS+;Find+my+repositories+in+Gitlab;Visit+my+blog+MonsterPenguin+%F0%9F%90%A7)](https://gitlab.com/Energy1011)
 
 I'm a Full-Stack Web Developer with 10+ years of experience, who is passionate about Programming, GNU/Linux, Cybersecurity, VideoGames and more...
 
