@@ -1,9 +1,9 @@
 
-[![welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+%F0%9F%98%83+;I'm+Full-Stack+Web+Developer;10%2B+Years+of+Experience;I+%E2%9D%A4%EF%B8%8F+FLOSS+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&height=100&lines=Hi+there+%F0%9F%91%8B+%F0%9F%98%83+;I'm+Full-Stack+Web+Developer+%F0%9F%96%A5%EF%B8%8F;10%2B+Years+of+Experience;I+%E2%9D%A4%EF%B8%8F+FLOSS+;Find+my+repositories+in+Gitlab;Visit+my+blog+MonsterPenguin+%F0%9F%90%A7)](https://gitlab.com/Energy1011)
 
 I'm a Full-Stack Web Developer with 10+ years of experience, who is passionate about Programming, GNU/Linux, Cybersecurity, VideoGames and more...
 
-### My repositories were migrated to Gitlab ❤️ [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+### All my repositories were migrated from Github to Gitlab
 
 <a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/Energy1011/Energy1011/blob/main/devcard.svg" width="400" alt="Energy1011"/></a>
 
@@ -12,8 +12,7 @@ I'm a Full-Stack Web Developer with 10+ years of experience, who is passionate a
 ### As well you can find me at my personal blog and social media
 [![Monster Penguin](https://img.shields.io/badge/Monster%20Penguin-005571?style=for-the-badge&logo=blogger&logoColor=white&color=blue)](https://energy1011.gitlab.io/monsterpenguin/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&color=black)](https://mastodon.social/web/@Mpenguinblog)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/Mpenguinblog)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mpenguinblog?label=Follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/Mpenguinblog)
 -----
 
 I enjoy full-stack development focus on the Backend and SysAdmin tasks
