@@ -3,13 +3,13 @@
 
 I'm a Full-Stack Web Developer with 10+ years of experience, who is passionate about Programming, GNU/Linux, Cybersecurity, VideoGames and more...
 
-### All my repositories were migrated from Github to Gitlab
+#### All my repositories were migrated from Github to Gitlab
 
 [![Gitlab](https://img.shields.io/badge/Gitlab%20@Energy1011-FC6D26?style=for-the-badge&logo=gitlab&color=blueviolet)](https://gitlab.com/Energy1011)
 
 <a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/Energy1011/Energy1011/blob/main/devcard.svg" width="400" alt="Energy1011"/></a>
 
-### As well you can find me at my personal blog and social media
+#### As well you can find me at my personal blog and social media
 [![Monster Penguin](https://img.shields.io/badge/Monster%20Penguin-005571?style=for-the-badge&logo=blogger&logoColor=white&color=blue)](https://energy1011.gitlab.io/monsterpenguin/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&color=black)](https://mastodon.social/web/@Mpenguinblog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mpenguinblog?label=Follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/Mpenguinblog)
