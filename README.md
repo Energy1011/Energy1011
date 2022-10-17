@@ -1,5 +1,7 @@
-### Hi there, 
-👋 🐧 🌩️ I'm a Full-Stack Web Developer with 10+ years of experience, who is passionate about Programming, GNU/Linux, Cybersecurity, VideoGames and more...
+
+[![welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+%F0%9F%98%83+;I'm+Full-Stack+Web+Developer;10%2B+Years+of+Experience;I+%E2%9D%A4%EF%B8%8F+FLOSS+)](https://git.io/typing-svg)
+
+I'm a Full-Stack Web Developer with 10+ years of experience, who is passionate about Programming, GNU/Linux, Cybersecurity, VideoGames and more...
 
 ### My repositories were migrated to Gitlab ❤️ [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
