@@ -10,8 +10,9 @@ I'm a Full-Stack Web Developer with 10+ years of experience, who is passionate a
 #### As well you can find me at my personal blog and social media
 [![Monster Penguin](https://img.shields.io/badge/Monster%20Penguin-005571?style=for-the-badge&logo=blogger&logoColor=white&color=blue)](https://energy1011.gitlab.io/monsterpenguin/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&color=black)](https://mastodon.social/web/@Mpenguinblog)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mpenguinblog?label=Follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/Mpenguinblog)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mpenguinblog?label=Follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Mpenguinblog)
 -----
+
 
 I enjoy full-stack development focus on the Backend and SysAdmin tasks
 
