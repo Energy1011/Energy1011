@@ -38,3 +38,4 @@ I enjoy full-stack development focus on the Backend and SysAdmin tasks
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 -----
+![visitors-since-27-feb-2023](https://visitor-badge.laobi.icu/badge?page_id=energy.github.visitor-badge)
