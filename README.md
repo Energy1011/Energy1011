@@ -1,6 +1,6 @@
 
 #### IMPORTANT: All my repositories were migrated from Github to Gitlab
-PLEASE VISIT MY GITLAB HERE -> [![Gitlab](https://img.shields.io/badge/Gitlab%20@Energy1011-FC6D26?style=for-the-badge&logo=gitlab&color=blueviolet)](https://gitlab.com/Energy1011)
+[![Gitlab](https://img.shields.io/badge/Gitlab%20@Energy1011-FC6D26?style=for-the-badge&logo=gitlab&color=blueviolet)](https://gitlab.com/Energy1011)
 
 -----
 
